@@ -19,8 +19,8 @@ Before you begin, ensure you have met the following requirements:
 Follow these steps to get your development env running:
 
 **Clone the repository**
-git clone (https://github.com/safvan001/PythonAssessmentSubmissionRepo)
-cd github_project
+- git clone (https://github.com/safvan001/PythonAssessmentSubmissionRepo)
+- cd github_project
 **Activate Virtual env**:venv\Scripts\activate
 - pip install -r requirements.txt
 - python manage.py migrate
